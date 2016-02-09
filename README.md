@@ -2,6 +2,4 @@
 prueba
 endika
 david
-
-
 ikerpapigon
